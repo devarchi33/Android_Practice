@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">eventsample</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="layout_instructions">Instructions</string>
+    <string name="layout_ok">OK</string>
+    <string name="layout_cancel">cancel</string>
+</resources>
